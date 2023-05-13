@@ -1,0 +1,23 @@
+form {
+    width: 50%;
+    height: 100%;
+    border-right: solid;
+    border-right-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+
+
+form button {
+    width: 80%;
+    height: 2.5rem;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 300;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}

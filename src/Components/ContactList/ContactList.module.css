@@ -1,0 +1,18 @@
+li {
+    list-style: none;
+    font-size: 1.3rem;
+    display: flex;
+    flex: 1;
+    text-transform: capitalize;
+}
+
+.contact {
+    background-color: rgba(255, 255, 255, 0.281);
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1rem;
+    text-align: center;
+
+}
